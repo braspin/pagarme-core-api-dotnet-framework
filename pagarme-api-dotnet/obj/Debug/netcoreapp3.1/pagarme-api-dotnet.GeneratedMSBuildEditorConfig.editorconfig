@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = pagarme_api_dotnet
+build_property.ProjectDir = D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\

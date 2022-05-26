@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>pagarme-api-dotnet</id>
+    <version>3.0.0</version>
+    <authors>braspin</authors>
+    <projectUrl>https://github.com/braspin/pagarme-core-api-dotnet-framework</projectUrl>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/braspin/pagarme-core-api-dotnet-framework" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\bin\Debug\netcoreapp3.1\pagarme-api-dotnet.dll" target="lib\netcoreapp3.1\pagarme-api-dotnet.dll" />
+  </files>
+</package>

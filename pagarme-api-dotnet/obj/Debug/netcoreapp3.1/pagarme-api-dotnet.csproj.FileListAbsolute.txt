@@ -1,0 +1,10 @@
+D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\obj\Debug\netcoreapp3.1\pagarme-api-dotnet.csproj.AssemblyReference.cache
+D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\obj\Debug\netcoreapp3.1\pagarme-api-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\obj\Debug\netcoreapp3.1\pagarme-api-dotnet.AssemblyInfoInputs.cache
+D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\obj\Debug\netcoreapp3.1\pagarme-api-dotnet.AssemblyInfo.cs
+D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\obj\Debug\netcoreapp3.1\pagarme-api-dotnet.csproj.CoreCompileInputs.cache
+D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\bin\Debug\netcoreapp3.1\pagarme-api-dotnet.deps.json
+D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\bin\Debug\netcoreapp3.1\pagarme-api-dotnet.dll
+D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\bin\Debug\netcoreapp3.1\pagarme-api-dotnet.pdb
+D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\obj\Debug\netcoreapp3.1\pagarme-api-dotnet.dll
+D:\WorkanaProjects\pagarme-core-api-dotnet-framework\pagarme-api-dotnet\obj\Debug\netcoreapp3.1\pagarme-api-dotnet.pdb
